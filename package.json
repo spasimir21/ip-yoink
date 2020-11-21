@@ -1,0 +1,32 @@
+{
+    "name": "ip-yoink",
+    "version": "1.0.0",
+    "description": "A simple website to yoink IPs without any user interaction using link previews.",
+    "main": "main.js",
+    "dependencies": {
+        "ejs": "^3.1.5",
+        "express": "^4.17.1",
+        "sharp": "^0.26.3"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "start": "node ."
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/spasimir21/ip-yoink.git"
+    },
+    "keywords": [
+        "ip",
+        "steal",
+        "yoink",
+        "sneaky",
+        "hack"
+    ],
+    "author": "Spasimir Pavlov",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/spasimir21/ip-yoink/issues"
+    },
+    "homepage": "https://github.com/spasimir21/ip-yoink#readme"
+}

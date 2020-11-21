@@ -1,0 +1,15 @@
+html,
+input {
+    font-family: 'Nunito', sans-serif;
+}
+
+h3 {
+    margin: 5px;
+}
+
+#ips {
+    border: solid 2px gray;
+    width: fit-content;
+    margin-top: 7px;
+    padding: 10px;
+}
