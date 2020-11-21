@@ -7,7 +7,7 @@ async function loadAndProcessLogs(id) {
 
     if (!req.ok) throw req;
 
-    logs.split('\r\n').forEach(ip => {
+    logs.split('\n').forEach(ip => {
         if (ip == '') return;
         ips.add(ip);
     });
